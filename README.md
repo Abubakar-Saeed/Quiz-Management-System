@@ -1,4 +1,3 @@
-# Quiz Management System
 
 # Quiz Management System
 ## Introduction
@@ -89,9 +88,11 @@ This system aims to:
 - **View Hall of Fame**: Students can check high scores and their rankings.
 - **Send Report**: Students can report any issues they encounter to the admin.
 
-![quiz management](https://git![subject management ](https://github.com/user![quiz management](https://github.com/user-attachments/assets/0454b09f-853d-4c50-9c19-e9f0df36c22c)
--attachments/assets/ff7742ae-4001-4f51-8170-1fc99cd7fb44)
-hub.com/user-attachments/assets/2c30077f-be22-4121-af68-5a7e1cb36f74)
-
+![student menu](https://github.com/user-attachments/assets/e5dd061c-99d1-4816-ab04-6e1ade023fc7)
 ![admin menu](https://github.com/user-attachments/assets/2b5be91a-9dc5-455b-8d61-c1ba522954e1)
+![subject management ](https://github.com/user-attachments/assets/c9fddc91-1395-4f08-970d-0065864b5bac)
+![quiz management](https://github.com/user-attachments/assets/779ce47f-bdf8-4786-a36c-1bb95b0fee19)
+
+
+
 
